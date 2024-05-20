@@ -17,14 +17,14 @@ Key Features:
 
 Usage: 
 
-. This template can be utilized as a foundation for personal or professional websites, providing a solid framework for building engaging and responsive web experiences.
-. Developers can customize and extend the template to suit specific project requirements, incorporating additional features and functionalities as needed.
-. Content creators can leverage the template's modular structure to showcase their work, share insights, and engage with their audience effectively.
+1. This template can be utilized as a foundation for personal or professional websites, providing a solid framework for building engaging and responsive web experiences.
+2. Developers can customize and extend the template to suit specific project requirements, incorporating additional features and functionalities as needed.
+3. Content creators can leverage the template's modular structure to showcase their work, share insights, and engage with their audience effectively.
 
 Deployment: 
 
-. Simply download the template files and host them on your web server or utilize a web hosting platform to deploy your website.
-. Ensure that the necessary assets (images, fonts, etc.) are properly linked and accessible for seamless functionality.
+1. Simply download the template files and host them on your web server or utilize a web hosting platform to deploy your website.
+2. Ensure that the necessary assets (images, fonts, etc.) are properly linked and accessible for seamless functionality.
 
 Conclusion:
 
